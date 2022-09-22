@@ -24,4 +24,29 @@
  
 #感谢Dell老师的细心讲解，现在大概了解一个vue涉及到知识还有做项目的一些使用技巧，以后的路还很长，希望自己加油
 
+# jindong
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 
