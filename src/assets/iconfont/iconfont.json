@@ -1,0 +1,23 @@
+{
+  "id": "3614099",
+  "name": "京东到家",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1196994",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "1704667",
+      "name": "minus",
+      "font_class": "minus",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    }
+  ]
+}
